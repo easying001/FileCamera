@@ -73,8 +73,8 @@ public class UsbCameraDeviceDialog extends BaseDialog {
     public void updateDevices() {
 //		mUSBMonitor.dumpDevices();
         //final List<DeviceFilter> filter = DeviceFilter.getDeviceFilters(getActivity(), com.serenegiant.uvccamera.R.xml.device_filter);
-        mDeviceListAdapter = new UsbCameraDeviceListAdapter(getActivity(), (List<UsbDevice>) UsbCameraManager.getInstance().getUSBMonitor().getDeviceList());
-        mDeviceListView.setAdapter(mDeviceListAdapter);
+        //mDeviceListAdapter = new UsbCameraDeviceListAdapter(getActivity(), (List<UsbDevice>) UsbCameraManager.getInstance().getUSBMonitor().getDeviceList());
+        //mDeviceListView.setAdapter(mDeviceListAdapter);
     }
 
 }
