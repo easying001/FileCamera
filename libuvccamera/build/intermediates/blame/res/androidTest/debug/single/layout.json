@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\StudioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_camera.xml",
+        "source": "D:\\StudioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_camera.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UsbCamera\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_camera.xml",
+        "source": "D:\\StudioProjects\\UsbCamera\\UVCCamera\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_camera.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\StudioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\StdioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\dialog_camera.xml",
+        "source": "D:\\StdioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\layout\\dialog_camera.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UsbCamera\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\StudioProjects\\UsbCamera\\UVCCamera\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "D:\\StdioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\listitem_device.xml",
+        "source": "D:\\StdioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\layout\\listitem_device.xml"
+    }
+]

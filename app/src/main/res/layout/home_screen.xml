@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 Baidu, Inc. All Rights Reserved.
+  -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:background="#AAAAAA"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <RelativeLayout
+            android:layout_weight="0.15"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <FrameLayout
+                android:id="@+id/fragment_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            <fragment
+                android:id="@+id/id_fragment_usb_file"
+                android:name="Views.UsbFileFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <fragment
+                android:id="@+id/id_fragment_usb_camera"
+                android:name="Views.UsbCameraFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <fragment
+                android:id="@+id/id_fragment_usb_setting"
+                android:name="Views.UsbSettingFragment"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </FrameLayout>
+
+
+    </RelativeLayout>
+
+    <!--<ImageView-->
+            <!--android:background="#FFFFFF"-->
+            <!--android:layout_width="1dp"-->
+            <!--android:layout_height="match_parent"/>-->
+    <LinearLayout
+            android:layout_width="66dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:background="@color/black_overlay"
+            android:gravity="center_horizontal"
+            android:layout_weight="0">
+
+            <ImageButton
+                    android:id="@+id/ib_open_file"
+                    android:layout_gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:background="@drawable/image_button_bg_selector"
+                    android:src="@drawable/ic_home_usb_storage"
+                    />
+
+            <ImageButton
+                    android:id="@+id/ib_start_preview"
+                    android:layout_gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:background="@drawable/image_button_bg_selector"
+                    android:src="@drawable/ic_home_usb_camera"
+                    />
+
+            <ImageButton
+                    android:id="@+id/ib_setting"
+                    android:layout_gravity="center"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:scaleType="fitCenter"
+                    android:background="@drawable/image_button_bg_selector"
+                    android:src="@drawable/ic_home_usb_setting"
+            />
+
+    </LinearLayout>
+</LinearLayout>

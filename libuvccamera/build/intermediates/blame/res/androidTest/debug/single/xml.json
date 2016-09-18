@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\StdioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\device_filter.xml",
+        "source": "D:\\StdioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\UsbCamera\\UVCCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\device_filter.xml",
+        "source": "D:\\StudioProjects\\UsbCamera\\UVCCamera\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\StudioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\device_filter.xml",
+        "source": "D:\\StudioProjects\\FileCamera\\libuvccamera\\build\\intermediates\\bundles\\debug\\res\\xml\\device_filter.xml"
+    }
+]
